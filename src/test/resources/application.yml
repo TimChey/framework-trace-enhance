@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: framework-plugins
+fmshiot:
+  dapper:
+    trace:
+      switch: true
